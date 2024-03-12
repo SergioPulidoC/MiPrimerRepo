@@ -1,2 +1,2 @@
 # MiPrimerRepo
-Creando repositorios para MATLAB
+Mi primer README!
